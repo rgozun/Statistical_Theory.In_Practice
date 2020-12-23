@@ -1,9 +1,6 @@
 ## Statistical Theory in Practice Notes
 
-Curve Fitting: The process of constructing a curve, or mathematical function, that has the best fit to a series of data points possibly subject to constraints.
-https://en.wikipedia.org/wiki/Curve_fitting
+# Curve Fitting
+Wikipedia: The process of constructing a curve, or mathematical function, that has the best fit to a series of data points possibly subject to constraints. https://en.wikipedia.org/wiki/Curve_fitting
+Example in R: https://davetang.org/muse/2013/05/09/on-curve-fitting/
 
-____________________________________________________________________________________________________________________________________________________________________________________
-Recommended Reading:
-
-(1) Mathematical Statistics With Applications by Dennis Wackerly
